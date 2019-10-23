@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SimpleAttendence</string>
+    <string name="i_am_a_student">i am a student</string>
+    <string name="i_am_a_teacher">i am a teacher</string>
 </resources>
