@@ -19,6 +19,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="20sp"
         android:hint="USN"
+        android:inputType="textEmailAddress"
         android:id="@+id/usntxt"
         android:layout_gravity="center"
         />

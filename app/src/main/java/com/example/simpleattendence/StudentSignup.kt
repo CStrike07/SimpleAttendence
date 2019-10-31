@@ -18,4 +18,9 @@ class StudentSignup : Fragment() {
         return inflater.inflate(R.layout.fragment_student_signup, container, false)
     }
 
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        super.onViewCreated(view, savedInstanceState)
+
+
+    }
 }
